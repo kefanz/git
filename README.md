@@ -1,2 +1,3 @@
 upload file to my github by terminal 
-Calculate running time by python
+/n Input the speed and distance
+/n Calculate running time by python
